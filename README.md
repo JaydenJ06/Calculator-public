@@ -1,13 +1,26 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=17899360&assignment_repo_type=AssignmentRepo)
-# a02: Calculator
+# Calculator
 
-This assignment uses TypeScript, compiled and run using a Vite server.
+A simple, browser-based calculator built with **TypeScript** and **Vite**.  
+It supports basic arithmetic operations and is designed as a small, focused project to practice clean state management and modular frontend code.
 
-## Getting Started
+---
 
-In the Terminal window of VS code, run the following:
+## ✨ Features
 
-```
-npm install
-npm run dev
-```
+- Basic arithmetic operations:  
+  `+` (addition), `−` (subtraction), `×` (multiplication), `÷` (division)
+- Support for decimal numbers (e.g., `3.14`)
+- Clear (`C`) function to reset the current calculation
+- Responsive layout that works on both desktop and small screens
+- Simple, minimal UI focused on readability and usability
+
+> If you add more features (keyboard input, history, +/- toggle, etc.), you can list them here as additional bullet points.
+
+---
+
+## 🧰 Tech Stack
+
+- **Language:** TypeScript
+- **Bundler / Dev Server:** Vite
+- **UI:** HTML, CSS
+- **Tooling:** npm
